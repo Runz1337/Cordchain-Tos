@@ -1,6 +1,6 @@
-# Pokeverse-ToS
+# Cordchain-ToS
 
-**By using Pokeverse you agree and accept the following terms of service.**
+**By using Cordchain you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
 2. Read and agreed to our [privacy policy](https://github.com/Runz1337/Pokeverse-Privacy-Policy/blob/main/README.md)
